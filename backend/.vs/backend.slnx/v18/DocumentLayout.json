@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\",
+  "WorkspaceRootPath": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5527AB7D-11EC-68F0-0EFD-41955AEB5595}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\adonay\\music\\pruebatecnica\\pruebatecnica\\pruebatecnica\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5527AB7D-11EC-68F0-0EFD-41955AEB5595}|pruebatecnica\\pruebatecnica.csproj|c:\\users\\adonay\\music\\pruebatecnica\\backend\\pruebatecnica\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5527AB7D-11EC-68F0-0EFD-41955AEB5595}|pruebatecnica\\pruebatecnica.csproj|solutionrelative:pruebatecnica\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\backend\\pruebatecnica\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "pruebatecnica\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\backend\\pruebatecnica\\Controllers\\AuthController.cs",
               "RelativeToolTip": "pruebatecnica\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T21:22:20.468Z",
+              "WhenOpened": "2026-05-29T21:56:43.939Z",
               "EditorCaption": ""
             }
           ]
