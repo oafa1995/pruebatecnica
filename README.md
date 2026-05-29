@@ -17,7 +17,7 @@ Aplicación web con autenticación JWT y CRUD de productos.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/PruebaTecnica.git
+git clone https://github.com/oafa1995/pruebatecnica.git
 cd PruebaTecnica
 
 ### 2. Configurar la base de datos
