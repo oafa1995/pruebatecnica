@@ -31,7 +31,7 @@ Si prefieres crearla manualmente, ejecuta el script `script DB.sql` que se encue
 
 Abre una terminal en la carpeta backend y ejecuta:
 dotnet restore
-dotnet run --urls=https://localhost:7259
+dotnet run --project pruebatecnica --urls=https://localhost:7259
 
 Una vez corriendo, Swagger estará en:
 https://localhost:7259/swagger/index.html
