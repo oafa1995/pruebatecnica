@@ -55,13 +55,10 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 
-    // AGREGA ESTO AQUÍ: Activa la interfaz gráfica clásica
     app.UseSwaggerUI(options =>
     {
-        // Le decimos a Swagger que use el JSON generado por .NET 10
         options.SwaggerEndpoint("/openapi/v1.json", "Mi API v1");
 
-        // Esto hace que entres directo usando /swagger en la URL
         options.RoutePrefix = "swagger";
     });
 }

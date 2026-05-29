@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzb1+Oj5waw=",
+  "dgSpecHash": "eIi0kBnO89g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adonay\\source\\repos\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj",
+  "projectFilePath": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adonay\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Adonay\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

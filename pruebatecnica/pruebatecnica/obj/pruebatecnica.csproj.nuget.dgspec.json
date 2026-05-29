@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adonay\\source\\repos\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj": {}
+    "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adonay\\source\\repos\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj": {
+    "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adonay\\source\\repos\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj",
+        "projectUniqueName": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj",
         "projectName": "pruebatecnica",
-        "projectPath": "C:\\Users\\Adonay\\source\\repos\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj",
+        "projectPath": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\pruebatecnica.csproj",
         "packagesPath": "C:\\Users\\Adonay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adonay\\source\\repos\\pruebatecnica\\pruebatecnica\\obj\\",
+        "outputPath": "C:\\Users\\Adonay\\Music\\PruebaTecnica\\pruebatecnica\\pruebatecnica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
